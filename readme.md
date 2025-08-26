@@ -22,7 +22,7 @@ class SreenijaCodes:
         self.location = "Los Angeles, CA 🌴"
 ```
 
-## 💫 Achievements
+## 💫 Epic Achievements
 
 🎯 **94.3% accuracy** crushing EEG stress detection  
 🚀 **40% faster** 5G deployments through ML magic  
@@ -45,13 +45,13 @@ class SreenijaCodes:
 
 </div>
 
-## 📝 Research Papers 
+## 📝 Research Papers That Matter
 
 🔬 **IEEE Sensors Reviews** - ASR Systems Analysis  
 🧠 **IEEE Sensors Letters** - Parkinson's EEG Detection  
 ⚡ **IEEE CSITSS 2024** - MAESTRO CNN Architecture  
 
-
+*Because publishing cool research is what we do* 😎
 
 ## 🏆 Flexing My Wins
 
@@ -62,16 +62,6 @@ class SreenijaCodes:
 🎯 KubeCon 2023 Full Scholarship
 🌟 Open Source Contributor (GSSoC 2023)
 ```
-
-## 📊 GitHub Vibes
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-</div>
 
 ---
 
