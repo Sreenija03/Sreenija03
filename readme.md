@@ -22,7 +22,7 @@ class SreenijaCodes:
         self.location = "Los Angeles, CA 🌴"
 ```
 
-## 💫 Epic Achievements
+## 💫  Achievements
 
 🎯 **94.3% accuracy** crushing EEG stress detection  
 🚀 **40% faster** 5G deployments through ML magic  
@@ -45,7 +45,7 @@ class SreenijaCodes:
 
 </div>
 
-## 📝 Research Papers That Matter
+## 📝 Research Papers 
 
 🔬 **IEEE Sensors Reviews** - ASR Systems Analysis  
 🧠 **IEEE Sensors Letters** - Parkinson's EEG Detection  
