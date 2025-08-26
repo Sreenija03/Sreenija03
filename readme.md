@@ -1,72 +1,80 @@
-# Sreenija Pavuluri
+# Hey, I'm Sreenija! 🚀
 
-**MS Computer Science** @ University of Southern California  
-**Research Focus**: Signal Processing, Machine Learning, Neural Networks
+> **AI/ML Researcher** crafting the future with **neural networks** & **signal processing** ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenija-pavuluri/?originalSubdomain=in)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KGfNfZQAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavuluri@usc.edu)
+<div align="center">
 
-## Research Experience
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/sreenija-pavuluri/?originalSubdomain=in)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=KGfNfZQAAAAJ&hl=en)
+[![USC](https://img.shields.io/badge/-USC_MS_CS-FFC72C?style=for-the-badge&logo=university&logoColor=black&labelColor=990000)](https://github.com/YOUR_USERNAME)
 
-**Centre for Development of Advanced Computing (CDAC)** - Research Intern  
-*Multi-head attention-enhanced CNN for EEG-based stress recognition*  
-• Achieved 94.3% classification accuracy with 7% improvement over baselines  
-• Reduced computational overhead by 12% through architectural optimization
+</div>
 
-**Indian Institute of Science (IISc)** - Summer Research Intern  
-*Speaker and content analysis in ASR systems using Wave2Vec2*  
-• Optimized clustering techniques achieving 98% speaker identification accuracy  
-• Analyzed trade-offs between speaker characteristics and content similarity
+---
 
-**Reliance Jio** - AI/ML Intern  
-*5G network deployment automation*  
-• Reduced deployment time by 40% through ML-driven automation framework  
-• Implemented anomaly detection achieving 95% accuracy in network configuration
+## 🔥 What I'm Building
 
-## Publications
+```python
+class SreenijaCodes:
+    def __init__(self):
+        self.current_focus = ["EEG Signal Processing", "Neural Networks", "Speech Recognition"]
+        self.vibe = "Turning brain signals into intelligent systems 🧠⚡"
+        self.location = "Los Angeles, CA 🌴"
+```
 
-**Journal Articles**
-- S. Pavuluri, S. De, A.K. Gupta. "Quantifying the Impact of Speaker and Content Features on ASR Systems Using Unsupervised Distance Metrics." *IEEE Sensors Reviews*
-- S. De, S. Pavuluri, A.K. Gupta. "Identification of patients with de novo Parkinson's Disease from Chemosensory EEG signals Using CEEMDAN domain Entropy Features." *IEEE Sensors Letters*
+## 💫 Epic Achievements
 
-**Conference Proceedings**
-- S. De, S. Pavuluri, A. Sayyad, A.K. Gupta. "MAESTRO: A robust Multi-head Attention Enhanced CNN architecture for Heat-induced Stress Recognition using EEG signals." *IEEE CSITSS 2024*
+🎯 **94.3% accuracy** crushing EEG stress detection  
+🚀 **40% faster** 5G deployments through ML magic  
+🎪 **98% precision** in speaker identification systems  
+📊 **RMSE 38.85** air quality prediction model  
+💎 **98% accuracy** recommendation engine
 
-## Technical Skills
+## 🛠️ Arsenal of Code
 
-**Programming**: Python, C++, R, MATLAB, SQL  
-**Machine Learning**: PyTorch, TensorFlow, Scikit-learn  
-**Development**: React, Node.js, Flask, Django  
-**Data Processing**: NumPy, Pandas, PySpark  
-**Tools**: Git, Jupyter, VS Code, Firebase
+<div align="center">
 
-## Selected Projects
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**IntuitiRec** - E-commerce Recommendation System  
-Collaborative filtering system using KNN, SVD, and ALS algorithms achieving 98% accuracy  
-*Python, PySpark, Scikit-learn, MySQL, Hadoop*
+</div>
 
-**Air Quality Index Prediction**  
-Regression model with Random Forest achieving RMSE of 38.85  
-*Python, Flask, Web Scraping, Feature Engineering*
+## 📝 Research Papers That Matter
 
-**Crypto Tracker**  
-Real-time cryptocurrency tracking platform with multi-source data aggregation  
-*React.js, Coingecko API*
+🔬 **IEEE Sensors Reviews** - ASR Systems Analysis  
+🧠 **IEEE Sensors Letters** - Parkinson's EEG Detection  
+⚡ **IEEE CSITSS 2024** - MAESTRO CNN Architecture  
 
-## Education
+*Because publishing cool research is what we do* 😎
 
-**University of Southern California** (2025-Present)  
-Master of Science in Computer Science
+## 🏆 Flexing My Wins
 
-**Gayatri Vidya Parishad College of Engineering** (2021-2025)  
-Bachelor of Technology in Computer Science | CGPA: 8.9
+```
+🏅 AWS AI/ML Scholarship Winner
+🚀 Microsoft Founders Hub Grant Recipient  
+🥈 IEEE Coding Competition 2nd Place (200+ devs)
+🎯 KubeCon 2023 Full Scholarship
+🌟 Open Source Contributor (GSSoC 2023)
+```
 
-## Recognition
+## 📊 GitHub Vibes
 
-• AWS AI/ML Scholarship recipient  
-• Microsoft for Startups Founders Hub Grant (OncoReach project)  
-• 100% scholarship for KubeCon+Cloud Native Conference 2023  
-• 2nd place in IEEE coding competition (200+ participants)  
-• Open-source contributor (GSSoC 2023)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+</div>
+
+---
+
+<div align="center">
+<i>Currently brewing some neural network magic at USC ☕⚡</i>
+</div>
